@@ -1,0 +1,9 @@
+streamlit==1.43.2
+langchain==0.3.20
+langchain-community==0.3.19
+openai==1.66.3
+wikipedia==1.4.0
+faiss-cpu==1.10.0
+python-dotenv==1.0.1
+tiktoken==0.9.0
+
