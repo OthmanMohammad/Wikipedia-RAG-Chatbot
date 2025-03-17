@@ -1,5 +1,6 @@
 from langchain.text_splitter import CharacterTextSplitter
 
+
 def split_text(text):
     """
     Splits text into chunks of 1000 characters with 200 characters overlap.
