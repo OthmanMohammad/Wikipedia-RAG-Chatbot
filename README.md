@@ -74,7 +74,7 @@ streamlit run app/main.py
 - OpenAI API key
 - Dependencies listed in `requirements.txt`
 
-## Technologies Used
+## Tools Used
 
 - **Streamlit**: Web interface
 - **LangChain**: Framework for building LLM applications
